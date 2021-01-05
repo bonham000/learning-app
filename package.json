@@ -35,7 +35,7 @@
     "@emotion/native": "^11.0.0",
     "@emotion/react": "^11.1.2",
     "@react-native-community/netinfo": "5.9.7",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-cli": "^6.26.0",
     "expo": "^40.0.0",
     "expo-av": "~8.7.0",
